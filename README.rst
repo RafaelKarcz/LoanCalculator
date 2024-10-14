@@ -95,4 +95,4 @@ Contributions to this project are welcome. Please ensure to maintain the environ
 License
 -------
 
-This project is licensed under the MIT License - see the `LICENSE`_ file for details.
+This project is licensed under the MIT License - see the `LICENSE <LICENSE>`_ file for details.
